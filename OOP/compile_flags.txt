@@ -1,0 +1,4 @@
+-IC:\Users\vowci\Documents\Firstworkspace\OOP
+-std=c++17
+-target
+
